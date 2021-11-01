@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-How are you.md
+II.md
 Use the left arrow to go back!
